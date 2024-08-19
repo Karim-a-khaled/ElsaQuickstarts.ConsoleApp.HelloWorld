@@ -10,6 +10,7 @@
   <ItemGroup>
     <PackageReference Include="Elsa" Version="2.13.0" />
     <PackageReference Include="Elsa.Activities.Console" Version="2.13.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
   </ItemGroup>
 
 </Project>
